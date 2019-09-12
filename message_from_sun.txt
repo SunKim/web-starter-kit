@@ -1,0 +1,2 @@
+Hi there,
+This is a test message from Sun for testing git pull
